@@ -3,12 +3,12 @@ NeuriteNet is a machine learning platform developed to identify differences in c
 
 
 # Model Requirements
-TensorFlow 2.0+
-tqdm
+* TensorFlow 2.0+
+* tqdm
 
 
 # XRAI Saliency Requirements
-NumPy
-OpenCV
-Scikit-Image
-tqdm
+* NumPy
+* OpenCV
+* Scikit-Image
+* tqdm
